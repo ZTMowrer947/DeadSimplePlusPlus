@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+ds++
 
 # VS Code Configuration
 .vscode/
