@@ -12,7 +12,7 @@ clean:
 	rm ds++
 
 install: ds++
-	install -vD ds++ ${PREFIX}/bin
+	install -vD ds++ ${PREFIX}/bin/ds++
 
 uninstall:
 	rm -f ${PREFIX}/bin/ds++
